@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DunGym_Quest.Main">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIACCABAaiACABAAEQDAACKCAAAAAgCAAIARAQACQwA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.UserMenu">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAEoiAAsiADBXhBBRySBF0CAIAgQEAAAAARAQCgAgA=</HashCode>
+      <FileName>UserMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DunGym_Quest.Achievement">
+    <Position X="7.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IyEGLvQTfzgIjR7Jfxz8GgXCABggwEfgt//mYQHYC8A=</HashCode>
+      <FileName>Achievement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.BMICalc">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAGRIiARAGAAgRBAEADQIARCAURACQAAhOAIMQIEAgQ=</HashCode>
+      <FileName>BMICalc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.Dashboard">
+    <Position X="14.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KBAEBgAEQCgEARjADgSQAASCAAAhAQAAAEAAAwAAAgA=</HashCode>
+      <FileName>Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.Exercise">
+    <Position X="16.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAEKwCCFaQERRlBABSAAAQCAACgAAkBAAAIGQgICA0=</HashCode>
+      <FileName>Exercise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.Leaderboard">
+    <Position X="19" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAEAEAACYAIBpAAASBAIAqAEAAIAIAgAEAAQAAAAA=</HashCode>
+      <FileName>Leaderboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.Progres">
+    <Position X="21.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAgAUACEAAJBQAASABAACAAIAAAAAAAAAEQAAAAI=</HashCode>
+      <FileName>Progres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="DunGym_Quest.Login">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAGBRgAAACAAEACIAQAAkAAyAAAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DunGym_Quest.Register">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIhIAQCAIARgAQJCCAUQOAQAAAsAAAAAIgQAAAgA=</HashCode>
+      <FileName>Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

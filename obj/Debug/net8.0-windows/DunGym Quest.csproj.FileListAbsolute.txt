@@ -1,0 +1,168 @@
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.exe
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.deps.json
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.runtimeconfig.json
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.pdb
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Login.resources
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Main.resources
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Properties.Resources.resources
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.GenerateResource.cache
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.AssemblyInfoInputs.cache
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.AssemblyInfo.cs
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.CoreCompileInputs.cache
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\refint\DunGym Quest.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.pdb
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.genruntimeconfig.cache
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\ref\DunGym Quest.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Register.resources
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\SiticoneNetCoreUI.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\SiticoneNetFrameworkUI.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.AssemblyReference.cache
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Q.6720ABEA.Up2Date
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Craig\source\repos\DunGym Quest\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\Craig\source\repos\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.exe
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.deps.json
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.runtimeconfig.json
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\DunGym Quest.pdb
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\SiticoneNetCoreUI.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\SiticoneNetFrameworkUI.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Login.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Main.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Properties.Resources.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Register.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.AssemblyInfo.cs
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Q.6720ABEA.Up2Date
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\refint\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.pdb
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym Quest.genruntimeconfig.cache
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\ref\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\DunGym Quest\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.BMICalc.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Dashboard.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Exercise.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Achievement.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Leaderboard.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.Progres.resources
+C:\Users\User\Desktop\DunGym Quest\obj\Debug\net8.0-windows\DunGym_Quest.UserMenu.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\DunGym Quest.exe
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\DunGym Quest.deps.json
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\DunGym Quest.runtimeconfig.json
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\DunGym Quest.pdb
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\SiticoneNetCoreUI.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\SiticoneNetFrameworkUI.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.CodeDom.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Collections.Immutable.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Achievement.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.BMICalc.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Dashboard.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Exercise.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Leaderboard.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Login.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Main.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Progres.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Properties.Resources.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.Register.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym_Quest.UserMenu.resources
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.AssemblyInfo.cs
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Q.6720ABEA.Up2Date
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\refint\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.pdb
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\DunGym Quest.genruntimeconfig.cache
+C:\Users\User\Desktop\DunGym Quest - Copy\obj\Debug\net8.0-windows\ref\DunGym Quest.dll
+C:\Users\User\Desktop\DunGym Quest - Copy\bin\Debug\net8.0-windows\Guna.Charts.WinForms.dll
