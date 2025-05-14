@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DunGym Quest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930f725e996e28f82e94c41b99c4c71cfa1b2518")]
 [assembly: System.Reflection.AssemblyProductAttribute("DunGym Quest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DunGym Quest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1394,11 +1394,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
       "projectName": "DunGym Quest",
-      "projectPath": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

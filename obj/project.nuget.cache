@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SYne2ASnDPw=",
+  "dgSpecHash": "JuyGLFh9odc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\guna.charts.winforms\\1.1.0\\guna.charts.winforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.1\\microsoft.aspnetcore.cryptography.internal.9.0.1.nupkg.sha512",

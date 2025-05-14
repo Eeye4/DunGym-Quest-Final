@@ -1,105 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\bmicalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\bmicalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:bmicalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\dungym quest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\dungym quest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:dungym quest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\leaderboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\leaderboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:leaderboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\usermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\usermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:usermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - copy\\dungym quest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|c:\\users\\user\\desktop\\dungym quest - final\\dungym quest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:dungym quest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:progres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\bmicalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\bmicalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:bmicalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:usermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|C:\\Users\\User\\Desktop\\DunGym Quest - final\\achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7243D8E9-33C9-4BAB-88A8-B6123344A111}|DunGym Quest.csproj|solutionrelative:achievement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -116,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Login.cs",
               "RelativeToolTip": "Login.cs",
               "ViewState": "AgIAANcAAAAAAAAAAAAswCAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,9 +130,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Dashboard.cs",
               "RelativeDocumentMoniker": "Dashboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Dashboard.cs",
               "RelativeToolTip": "Dashboard.cs",
               "ViewState": "AgIAAFIAAAAAAAAAAAAwwFIAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +144,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserMenu.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\UserMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\UserMenu.cs",
               "RelativeDocumentMoniker": "UserMenu.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\UserMenu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\UserMenu.cs",
               "RelativeToolTip": "UserMenu.cs",
               "ViewState": "AgIAANwBAAAAAAAAAAAmwCYBAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,9 +158,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\ClassDiagram1.cd",
               "RelativeToolTip": "ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2025-05-01T15:27:47.632Z"
@@ -169,9 +169,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "UserMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\UserMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\UserMenu.Designer.cs",
               "RelativeDocumentMoniker": "UserMenu.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\UserMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\UserMenu.Designer.cs",
               "RelativeToolTip": "UserMenu.Designer.cs",
               "ViewState": "AgIAAFoEAAAAAAAAAAAYwGQEAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "DunGym Quest",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
               "RelativeDocumentMoniker": "DunGym Quest.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
               "RelativeToolTip": "DunGym Quest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-01T10:08:29.935Z"
@@ -192,9 +192,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Achievement.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Achievement.cs",
               "RelativeDocumentMoniker": "Achievement.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Achievement.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Achievement.cs",
               "RelativeToolTip": "Achievement.cs",
               "ViewState": "AgIAACcCAAAAAAAAAAAQwBwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,10 +205,10 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Achievement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Achievement.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Achievement.cs",
               "RelativeDocumentMoniker": "Achievement.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Achievement.cs [Design]",
-              "RelativeToolTip": "Achievement.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Achievement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-30T12:21:46.683Z"
             },
@@ -216,9 +216,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Main.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Main.cs",
               "RelativeToolTip": "Main.cs",
               "ViewState": "AgIAAJwAAAAAAAAAAAAwwCAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,21 +229,20 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Register.cs [Design]",
-              "RelativeToolTip": "Register.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:06:29.358Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-10T17:06:29.358Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Leaderboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Leaderboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Leaderboard.Designer.cs",
               "RelativeDocumentMoniker": "Leaderboard.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Leaderboard.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Leaderboard.Designer.cs",
               "RelativeToolTip": "Leaderboard.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "DunGym Quest.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
               "RelativeDocumentMoniker": "DunGym Quest.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\DunGym Quest.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\DunGym Quest.csproj",
               "RelativeToolTip": "DunGym Quest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -266,33 +265,31 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Progres.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Progres.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Progres.cs",
               "RelativeDocumentMoniker": "Progres.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Progres.cs [Design]",
-              "RelativeToolTip": "Progres.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Progres.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:18:39.052Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-27T08:18:39.052Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Login.cs",
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Login.cs [Design]",
-              "RelativeToolTip": "Login.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T04:44:37.719Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-11T04:44:37.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Leaderboard.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Leaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Leaderboard.cs",
               "RelativeDocumentMoniker": "Leaderboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Leaderboard.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Leaderboard.cs",
               "RelativeToolTip": "Leaderboard.cs",
               "ViewState": "AgIAAGMAAAAAAAAAAAAowGcAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -303,22 +300,21 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Progres.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Progres.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Progres.cs",
               "RelativeDocumentMoniker": "Progres.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Progres.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Progres.cs",
               "RelativeToolTip": "Progres.cs",
               "ViewState": "AgIAAIIBAAAAAAAAAAAmwJIBAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:28:35.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T08:28:35.84Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Leaderboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Leaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Leaderboard.cs",
               "RelativeDocumentMoniker": "Leaderboard.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Leaderboard.cs [Design]",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Leaderboard.cs [Design]",
               "RelativeToolTip": "Leaderboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T04:44:14.833Z",
@@ -328,9 +324,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "BMICalc.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\BMICalc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\BMICalc.cs",
               "RelativeDocumentMoniker": "BMICalc.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\BMICalc.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\BMICalc.cs",
               "RelativeToolTip": "BMICalc.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAYwKUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -341,10 +337,10 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "BMICalc.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\BMICalc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\BMICalc.cs",
               "RelativeDocumentMoniker": "BMICalc.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\BMICalc.cs [Design]",
-              "RelativeToolTip": "BMICalc.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\BMICalc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T04:43:27.315Z"
             },
@@ -352,9 +348,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Exercise.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Exercise.cs",
               "RelativeDocumentMoniker": "Exercise.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Exercise.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Exercise.cs",
               "RelativeToolTip": "Exercise.cs",
               "ViewState": "AgIAAKIAAAAAAAAAAAAiwJ8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,47 +361,44 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Exercise.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Exercise.cs",
               "RelativeDocumentMoniker": "Exercise.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Exercise.cs [Design]",
-              "RelativeToolTip": "Exercise.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Exercise.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T02:15:17.613Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-11T02:15:17.613Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Register.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Register.cs",
               "RelativeToolTip": "Register.cs",
               "ViewState": "AgIAAJoAAAAAAAAAAAAkwEMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:08:20.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T17:08:20.007Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Main.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Main.cs [Design]",
-              "RelativeToolTip": "Main.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T17:07:53.307Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-10T17:07:53.307Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\Dashboard.cs",
               "RelativeDocumentMoniker": "Dashboard.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\Dashboard.cs [Design]",
-              "RelativeToolTip": "Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T16:37:07.922Z"
             },
@@ -413,10 +406,10 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "UserMenu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\UserMenu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DunGym Quest - final\\UserMenu.cs",
               "RelativeDocumentMoniker": "UserMenu.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\DunGym Quest - Copy\\UserMenu.cs [Design]",
-              "RelativeToolTip": "UserMenu.cs [Design]",
+              "RelativeToolTip": "..\\DunGym Quest - Copy\\UserMenu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T15:37:42.585Z"
             }
